@@ -1,0 +1,21 @@
+{
+  "name": "todolistrestapi",
+  "version": "1.0.0",
+  "description": "Sample todo list node js rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "Error! No test specified!",
+    "start": "nodemon server.js"
+  },
+  "author": "Vishwas B Anand",
+  "license": "ISC",
+  "devDependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "mongoose": "^5.0.4"
+  }
+}
